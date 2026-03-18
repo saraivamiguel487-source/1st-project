@@ -1,2 +1,2 @@
 # 1st-project
-Aprendendo Git
+Learning Git
